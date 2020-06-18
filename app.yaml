@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: laurens-page
-        image: gcr.io/potent-galaxy-274115/laurens-page
+        image: gcr.io/cit-262-group3/laurens-page
         ports:
         - containerPort: 80
         resources:
